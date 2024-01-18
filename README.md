@@ -6,7 +6,6 @@
 - 💬 Ask me about: Anything
 - 📫 How to reach me: Instagram, GitHub and mail(links below)
 - 🎮 Tecnologies: Git and GitHub, MySql, Python and Java
-- ⚡ Fun fact: I like to let others think that I only know how to program in Python
 
 
 <br>
