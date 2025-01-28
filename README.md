@@ -28,19 +28,14 @@
 <!-- TECNOLOGIAS -->
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python)
 ![Java](https://img.shields.io/badge/Java-000.svg??style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-000.svg??style=for-the-badge&logo=openjdk&logoColor=white)
 </div>
 
 
 
-<!-- REDES SOCIAIS -->
-<div align="center">
-  <a href="https://instagram.com/b0nifacioleo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="mailto:estudotrafego@outlook.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
 
-</div>
 
