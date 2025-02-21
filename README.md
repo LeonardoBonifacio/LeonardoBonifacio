@@ -1,11 +1,8 @@
 ## Welcome to my profile feel free
 
-- 🔭 I’m currently working on: Only personal projects 
 - 🌱 I’m currently learning: Embedded Systems and C
-- 🤔 I’m looking for help with: Everything that i don't know
-- 💬 Ask me about: Anything
 - 📫 How to reach me: Instagram, GitHub and mail(links below)
-- 🎮 Tecnologies: Git and GitHub, MySql, Python, Java, Godot, C.
+- 🎮 Tecnologies: Git and GitHub, MySql, Python, Java, C.
 
 
 <br>
